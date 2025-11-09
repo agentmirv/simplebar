@@ -1,6 +1,6 @@
 {
   "name": "simplebar-examples",
-  "version": "3.1.2",
+  "version": "3.1.3",
   "private": true,
   "description": "Scrollbars, simpler.",
   "author": "Adrien Denat <oi@adriendenat.com>",
@@ -21,7 +21,7 @@
   "dependencies": {
     "@babel/runtime": "^7.20.7",
     "core-js": "^3.27.1",
-    "simplebar": "^6.3.2",
+    "simplebar": "^6.3.3",
     "simplebar-react": "^3.3.2"
   },
   "devDependencies": {
