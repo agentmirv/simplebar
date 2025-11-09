@@ -1,3 +1,27 @@
+# v6.3.3 (Sun Nov 09 2025)
+
+#### 🐛 Bug Fix
+
+- fix(simplebar): Add simplebar.css to exports [#728](https://github.com/Grsmto/simplebar/pull/728) ([@andersk](https://github.com/andersk))
+- Update CHANGELOG.md \[skip ci\] ([@Grsmto](https://github.com/Grsmto))
+- Add types to exports [#722](https://github.com/Grsmto/simplebar/pull/722) ([@DennisCiba](https://github.com/DennisCiba))
+- Clean up unused dependencies [#696](https://github.com/Grsmto/simplebar/pull/696) ([@CallanMcNulty](https://github.com/CallanMcNulty))
+
+#### ⚠️ Pushed to `master`
+
+- Publish ([@Grsmto](https://github.com/Grsmto))
+- feat(simplebar): add missing exports field in pkg.json to help modern bundlers ([@Grsmto](https://github.com/Grsmto))
+- fix(simplebar): fix wrong tsconfig loaded ([@Grsmto](https://github.com/Grsmto))
+
+#### Authors: 4
+
+- [@CallanMcNulty](https://github.com/CallanMcNulty)
+- Adrien Denat ([@Grsmto](https://github.com/Grsmto))
+- Anders Kaseorg ([@andersk](https://github.com/andersk))
+- Dennis Ciba ([@DennisCiba](https://github.com/DennisCiba))
+
+---
+
 # v6.3.2 (Thu Jul 03 2025)
 
 #### 🐛 Bug Fix
